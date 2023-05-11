@@ -1,4 +1,5 @@
-### Hi there 👋
+Docteur en géographie et spécialisé en analyse spatiale, mon intérêt se porte vers les mobilités, le cadre conceptuel de la time-geography, et la géographie régionale. 
+J’aborde ces sujets par le biais de la géomatique, de l’analyse spatio-temporelle et par la modélisation statistique. Je travaille essentiellement sur R, et je cartographie avec QGIS. 
 
 <!--
 **CKerouanton/Ckerouanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
